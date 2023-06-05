@@ -1,0 +1,6 @@
+** IR Communication library for Mbed OS
+Currently supporting RC5 and SIRC
+
+---
+
+Some usage examples in examples.cpp

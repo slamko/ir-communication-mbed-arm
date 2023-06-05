@@ -7,3 +7,8 @@ BUILD
 compile_commands.json
 .cache
 mbed-os
+mbed-os.lib
+README.md
+.circleci
+.github
+.travis.yml
